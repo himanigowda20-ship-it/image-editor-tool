@@ -20,4 +20,5 @@ An interactive image editing application built using Python, Pillow, and ipywidg
 2. Upload an image
 3. Use sliders to adjust image properties
 4. Click "Save & Download" to export the edited image
- https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=pVyErwNkAIGi&fullscreenOutput=true
+ <img width="686" height="730" alt="image" src="https://github.com/user-attachments/assets/a63e94b9-fad5-4260-ae9e-e949d7440c42" />
+
